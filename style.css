@@ -1,9 +1,16 @@
 :root{
     box-sizing: border-box;
 }
-* ::after, ::before{
+*,
+::after,
+::before{
     box-sizing: inherit;
 }
 body * + *{
     margin-top: 1.5em;
+}
+body{
+    background: linear-gradient(#9b9a9a, whitesmoke);
+    font-family: Calibri, cursive;
+
 }
