@@ -9,3 +9,14 @@
 body * + *{
     margin-top: 1.5em;
 }
+
+/*layout*/
+/*double container pattern*/
+.container{
+    max-width: 1080px;
+    margin: 0 auto;
+}
+article{
+    float: left;
+    width: 50%;
+}
