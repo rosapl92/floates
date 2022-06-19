@@ -2,7 +2,12 @@ body{
     background: linear-gradient(#9b9a9a, whitesmoke);
     font-family: Calibri, cursive;
 }
-header{
+
+header,
+footer{
     background-color:aqua;
     font-size: xx-large;
+    color: blue;
+    padding: .4em  1.4em;
+    border-radius: .5em;
 }
