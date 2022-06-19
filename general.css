@@ -2,3 +2,7 @@ body{
     background: linear-gradient(#9b9a9a, whitesmoke);
     font-family: Calibri, cursive;
 }
+header{
+    background-color:aqua;
+    font-size: xx-large;
+}
