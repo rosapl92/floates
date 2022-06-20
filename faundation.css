@@ -27,3 +27,13 @@ section ::after{
     content: " ";
     clear: both;
 }
+
+/* float article*/
+section div article p{
+    overflow: auto;
+}
+section div article img{
+    float: left;
+    margin-right: 1.5em;
+    margin-bottom: .5em;
+}
