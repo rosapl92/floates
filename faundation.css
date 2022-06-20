@@ -20,3 +20,10 @@ article{
     float: left;
     width: 50%;
 }
+
+/*fine float*/
+section ::after{
+    display: block;
+    content: "";
+    clear: both;
+}
