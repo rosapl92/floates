@@ -3,6 +3,21 @@ main{
     border-radius: .5em;
     padding: 0 1.5em 1.5em 1.5em;
 }
-article h3{
+
+article{
+    background: skyblue;
+    border-radius: 1.5em;
+    padding: 1.5em;
+
+}
+
+article h3 {
     margin: 0;
+}
+
+main section div.article :first-child{
+    margin-top: 1.5em;
+}
+main section div.article :nth-child(shots){
+
 }

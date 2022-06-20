@@ -24,6 +24,6 @@ article{
 /*fine float*/
 section ::after{
     display: block;
-    content: "";
+    content: " ";
     clear: both;
 }
