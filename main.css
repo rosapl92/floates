@@ -27,7 +27,6 @@ main section div.article article{
 
 section >*:first-child{
     margin-top: 1.5em;
-    background: red;
 }
 
 section::before{
