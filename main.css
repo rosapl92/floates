@@ -24,3 +24,13 @@ main section div.article :nth-child(2n+1){
 main section div.article article{
     width: calc(50% - (1.5em / 2));
  }
+
+section >*:first-child{
+    margin-top: 1.5em;
+    background: red;
+}
+
+section::before{
+    display: table;
+    content: " ";
+}
