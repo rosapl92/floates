@@ -29,12 +29,12 @@ section ::after{
 }
 
 /* float article*/
-section div article div p{
+section div article p{
     overflow-y: auto;
     text-align: justify;
 }
 section div article img{
     float: left;
-    margin-right: 1.5em;
+    margin-right: 1em;
     margin-bottom: 1em;
 }
