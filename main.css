@@ -22,7 +22,7 @@ main section div.article :nth-child(2n+1){
     margin-right: 1.5em;
 }
 main section div.article article{
-    width: calc(50% - (1.5em / 2));
+    width: calc(50% - (1.5em/2));
  }
 
 section >*:first-child{

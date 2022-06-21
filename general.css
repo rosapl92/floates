@@ -8,6 +8,9 @@ footer{
     background-color:aqua;
     font-size: xx-large;
     color: blue;
-    padding: .4em  1.4em;
+    padding: 1.5em;
     border-radius: .5em;
 }
+ header{
+     margin-bottom: 1.5em;
+ }
